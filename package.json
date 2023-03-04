@@ -1,0 +1,33 @@
+{
+  "name": "react_fatcs",
+  "version": "1.0.0",
+  "description": "React Project : Reatc web page features toggle theme for web page which says fun facts about React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diptidhruv/React_Fatcs.git"
+  },
+  "keywords": [
+    "React",
+    "Js",
+    "toggle",
+    "theme",
+    "static",
+    "web",
+    "page",
+    "react",
+    "fun",
+    "facts.",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Dipti Mandani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diptidhruv/React_Fatcs/issues"
+  },
+  "homepage": "https://github.com/diptidhruv/React_Fatcs#readme"
+}
